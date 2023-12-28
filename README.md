@@ -15,4 +15,4 @@ Organize suas notas usando tags.
 Realize buscas rápidas através da barra de pesquisa.
 
 
- [https://www.capcut.com/view/7317735079755645446?workspaceId=7317723991542890501]
+
