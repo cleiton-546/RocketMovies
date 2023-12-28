@@ -14,4 +14,6 @@ Crie e edite suas notas pessoais.
 Organize suas notas usando tags.
 Realize buscas rápidas através da barra de pesquisa.
 
-![](./assets/202312281616.mp4)
+<div>
+  <source src="./assets/202312281616.mp4" type="video/mp4">
+</div>
