@@ -15,5 +15,7 @@ Organize suas notas usando tags.
 Realize buscas rápidas através da barra de pesquisa.
 
 <div>
-  <source src="./assets/202312281616.mp4" type="video/mp4">
+  <video controls>
+    <source src="./assets/202312281616.mp4" type="video/mp4">
+  </video>  
 </div>
