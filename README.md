@@ -14,8 +14,5 @@ Crie e edite suas notas pessoais.
 Organize suas notas usando tags.
 Realize buscas rápidas através da barra de pesquisa.
 
-<div>
-  <video controls>
-    <source src="./assets/202312281616.mp4" type="video/mp4">
-  </video>  
-</div>
+
+ [https://www.capcut.com/view/7317735079755645446?workspaceId=7317723991542890501]
